@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+} /*# sourceMappingURL=style.css.map */
+
+.items {
+  margin-bottom: 200px;
+}
+
+.my-5 {
+  margin-top: 0 !important;
+  margin-bottom: 2rem !important;
+}
